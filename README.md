@@ -25,6 +25,5 @@
 
 ```HTML```  ```CSS```  ```JavaScript```  ```Bootstrap```  ```Markdown```
 
-# Grazier
-Hackathon_website_for_FARMERS
+
 
