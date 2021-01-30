@@ -1,2 +1,2 @@
-# grazier
+# Grazier
 Hackathon_website_for_FARMERS
