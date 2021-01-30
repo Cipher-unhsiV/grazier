@@ -2,6 +2,7 @@
 ## PROJECT :- Grazier
 ## LOGO :-
 
+![PSX_20210129_215539](https://user-images.githubusercontent.com/64918181/106348466-7df5d980-62ec-11eb-8f3d-1b42e417c9a3.jpg)
 
 ## OBJECTIVE :-
  
