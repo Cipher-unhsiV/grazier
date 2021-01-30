@@ -28,7 +28,7 @@ The main aim and target for that matter of our project is to save and enhance th
 
 ## TECHNOLOGIES USED :-
 
-```HTML```  ```CSS```  ```JavaScript```  ```Bootstrap```  ```Markdown```
+```HTML```  ```CSS```  ```JavaScript```  ```Bootstrap```  ```Markdown``` ```Node.js``` 
 
 
 
