@@ -15,8 +15,6 @@ The main aim and target for that matter of our project is to save and enhance th
                 
                                                                LET'S MAKE USE OF IT WISELY AND MORE THAN THAT! 
 
-## FEATURES :-
-
 
 ## TEAMMATES :-
 
